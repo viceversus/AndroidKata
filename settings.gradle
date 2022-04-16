@@ -13,4 +13,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "AndroidKata"
+enableFeaturePreview "VERSION_CATALOGS"
 include ':app'
