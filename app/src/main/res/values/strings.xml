@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidKata</string>
+    <string name="title_activity_todo_list">TodoListActivity</string>
 </resources>
